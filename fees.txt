@@ -1,0 +1,5 @@
+1 Shreya 1 1 0 0
+2 Deanne 1 1 0 0
+3 Nikita 0 0 0 0
+4 Parth 1 0 0 0
+5 Heer 1 0 0 0

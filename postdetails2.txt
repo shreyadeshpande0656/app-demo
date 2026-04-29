@@ -1,0 +1,15 @@
+100 1 img100.jpg comedy 2,3,5 900
+101 2 img101.jpg fashion 1,4,6 1100
+102 3 img102.jpg food 2,5,7,8 1300
+103 4 img103.jpg gaming 1,3 850
+104 5 img104.jpg politics 2,6,9 1400
+105 6 img105.jpg travel 3,4,7 1200
+106 7 img106.jpg comedy 1,5,8 1000
+107 8 img107.jpg fashion 2,6 1450
+108 9 img108.jpg food 1,3,5,7 1250
+109 10 img109.jpg gaming 4,6,8 950
+110 1 img110.jpg politics 2,3 1350
+111 2 img111.jpg travel 5,7,9 800
+112 3 img112.jpg comedy 1,4,6,8 1150
+113 4 img113.jpg fashion 2,5 1050
+114 5 img114.jpg food 3,6,7,10 1380
